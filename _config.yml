@@ -37,7 +37,7 @@ features                                  :
     description                           : Everyday 10 handpicked articles about crypto and blockchain are added for you
     fontawesome_icon_name                 : magic
     
-  - title                                 : Expiring articles
+  - title                                 : Let the experts choose for you
     description                           : The articles expire every 24 hours so you always get the freshest content without any decision fatigue
     fontawesome_icon_name                 : mobile
 
@@ -66,7 +66,7 @@ features                                  :
     fontawesome_icon_name                 : link
 
   - title                                 : The hard parts made easy
-    description                           : Only the best curated articles pass the selection process to the app so you understand complex concepts in plain English
+    description                           : Only the best curated articles pass the selection process to the app so you understand crypto concepts in plain English
     fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
