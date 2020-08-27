@@ -34,12 +34,8 @@ youtube_username                          : merunas
 features                                  :
 
   - title                                 : Learn about crypto daily
-    description                           : Everyday 10 handpicked articles about crypto and blockchain are added for you
+    description                           : The top 100 timeless blockchain and cryptocurrency articles
     fontawesome_icon_name                 : magic
-    
-  - title                                 : Let the experts choose for you
-    description                           : The articles expire every 24 hours so you always get the freshest content without any decision fatigue
-    fontawesome_icon_name                 : mobile
 
   - title                                 : Dark mode enabled
     description                           : Whether you're a night reader or a day reader, we got you covered
@@ -68,11 +64,6 @@ features                                  :
   - title                                 : The hard parts made easy
     description                           : Only the best curated articles pass the selection process to the app so you understand crypto concepts in plain English
     fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
 
 
 # Theme Settings
